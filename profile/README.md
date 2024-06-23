@@ -1,7 +1,11 @@
-# IHEI WORKSTATION TEAM MeoipZi
-# Vintage clothing promotion website to enhance accessibility and convenience of information search 
+<h1 align="center">IHEI WORKSTATION TEAM MeoipZi</h1>
+
+<p align="center">
+  <img src="https://github.com/MeoipZi/.github/assets/96698362/09441582-f2b9-4bbb-b36c-8b2e10a4586a" alt="hi" width="500">
+</p>
 
 ## 🙋‍♀️ Introduction
+# Vintage clothing promotion website to enhance accessibility and convenience of information search 
 In the fashion industry, there are various services, such as a platform that integrates and shows several online shopping malls and a site where you can share reviews on products. 
 However, consumers find it difficult to obtain information because there are not many such services in the used clothing industry, and the credibility of shopping malls' products decreases due to problems such as lack of reviews. 
 A website has been developed to solve this problem and allow consumers to conveniently access shopping malls specializing in second-hand clothing. 
