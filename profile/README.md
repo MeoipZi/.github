@@ -20,6 +20,7 @@ In addition, looking at coordination using vintage clothing, second-handed produ
 ## 🌈 Demo video
 
 ## 🛠️ Architecture
+<img width="593" alt="dontworry drawio (1)" src="https://github.com/MeoipZi/.github/assets/83911440/b9d90ccf-9328-4ac4-b398-f1b97402f215">
 
 ## 👩🏻‍💻  Team MeoipZi
 
