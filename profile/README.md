@@ -10,10 +10,10 @@ In the fashion industry, there are various services, such as a platform that int
 However, consumers find it difficult to obtain information because there are not many such services in the used clothing industry, and the credibility of shopping malls' products decreases due to problems such as lack of reviews. 
 A website has been developed to solve this problem and allow consumers to conveniently access shopping malls specializing in second-hand clothing. 
 It provides a connection link to several shopping malls that sell vintage clothing at once, and creates a networking site that allows site users to share information and share opinions with each other.
-Site users can post their own coordinates and provide the place and price of the clothes. 
+Site users can post their own outfit ideas that use vintage clothings and provide the place and price of the clothes. 
 It is also possible to leave likes and reviews on specific shopping malls and products. 
-Other users who see this can immediately visit the shopping mall through the link, which can promote the consumption of second-hand clothing.
-In addition, looking at coordination using vintage clothing, second-handed products are no longer rustic, but can be reborn as devices that satisfy users' fashion needs while thinking about the Earth's environment.
+Other users who see this can directly visit the shopping mall through the link, which can promote the consumption of second-hand clothing.
+In addition, looking at outfit ideas using vintage clothing, second-handed products are no longer considered as rustic, and can be reborn as items that satisfy users' fashion needs while thinking about the Earth's environment.
 
 ## 🚀 Features
 ### 👩‍💻회원가입/로그인
@@ -36,7 +36,8 @@ MeoipZi에서 선별한 특별한 빈티지 소식을 알려준다.
 
 **Partners**
 
-제휴 쇼핑몰을 보여준다
+제휴 쇼핑몰을 보여준다.
+제휴 쇼핑몰 이미지를 클릭하면 해당 쇼핑몰 사이트로 바로 이동할 수 있다.
 
 **Style**
 
@@ -100,15 +101,15 @@ MeoipZi 관리자가 상품과 코디 정보를 등록하고 관리한다.
 
 프로필 편집 : 사용자는 자신이 원하는 이미지와 닉네임 , 신장, 몸무게를 프로필 편집에서 설정할 수 있다.  사용자는 자신의 신장과 몸무게는 비공개로 설정할 수 있다.
 
-"Like": 서비스 이용자가 좋아요한 [코디], [숏폼]을 모아볼 수 있다.
+"Like": 서비스 이용자가 좋아요한 [코디], [숏폼]을 모아볼 수 있다. 더보기 버튼을 통해 더 많은 항목을 확인할 수 있다.
 
 "Post": [피드 탭], [스크랩 탭], [댓글 탭]으로 이루어져 있다.
 
-피드 탭 : 서비스 이용자는 자신이 업로드한 숏폼 목록을 확인할 수 있다. 더보기 버튼을 통해 더 많은 항목을 확인할 수 있다.
+  피드 탭 : 서비스 이용자는 자신이 업로드한 숏폼, 게시글 목록을 확인할 수 있다. 더보기 버튼을 통해 더 많은 항목을 확인할 수 있다.
 
-스크랩 탭: 서비스 이용자는 자신이 스크랩한 아웃핏, 상품 목록을 확인할 수 있다. 더보기 버튼을 통해 더 많은 항목을 확인할 수 있다.
+  스크랩 탭: 서비스 이용자는 자신이 스크랩한 아웃핏, 상품 목록을 확인할 수 있다. 더보기 버튼을 통해 더 많은 항목을 확인할 수 있다.
 
-댓글 탭: 서비스 이용자는 자신이 댓글을 작성한 아웃핏, 숏폼, 게시판 게시글 목록을 확인할 수 있다. 더보기 버튼을 통해 더 많은 항목을 확인할 수 있다.
+  댓글 탭: 서비스 이용자는 자신이 댓글을 작성한 아웃핏, 숏폼, 게시판 게시글 목록을 확인할 수 있다. 더보기 버튼을 통해 더 많은 항목을 확인할 수 있다.
 
 
 ## 🛠️ Architecture
